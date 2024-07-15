@@ -1,6 +1,4 @@
-# activity-recognition-prediction-wearable
-Work in progress about activity recognition/prediction using wearable sensors information
+# Intent-Prediction
+Work in progress for intent recognition
 
-# Variational Time Series Feature Extractor (VTSFE)
-
-Generative model which provides a reduced feature space useful for both recognition and prediction.
+Forked from https://github.com/inria-larsen/activity-recognition-prediction-wearable
